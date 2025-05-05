@@ -32,5 +32,4 @@ expr = input("Enter prefix expression (space separated): ")
 tokens = expr.split()
 
 #convert and print postfix expr
-print(pre_to_post(tokens))
-
+print(pre_to_post(tokens)) 
